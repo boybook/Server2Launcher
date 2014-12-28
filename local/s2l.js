@@ -10,9 +10,9 @@ function newLevel() {
 function modTick() {
   a++
   if(a>=20) {
-		 a=0;
-		 address = Server.getAddress();
-    ModPE.showTipMessage("Try To Connect The Server : " + address); 
+      a=0;
+      address = Server.getAddress();
+      ModPE.showTipMessage("Try To Connect The Server : " + address); 
 		 }
 }
  
