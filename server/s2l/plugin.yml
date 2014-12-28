@@ -1,0 +1,10 @@
+//server主要是zhymc开发
+name: servertolaucher
+main: s2l\main
+version: 1.0
+api: [1.0.0]
+load: STARTUP
+authors:  [boybook|zhymc]
+description: make blocklaucher talk with server
+website: http://zhyer.com/
+//test
