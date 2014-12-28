@@ -12,7 +12,7 @@ function modTick() {
   if(a>=20) {
 		 a=0;
 		 address = Server.getAddress();
-    ModPE.showTipMessage("Try To Connect The Server\n" + address); 
+    ModPE.showTipMessage("Try To Connect The Server : " + address); 
 		 }
 }
  
